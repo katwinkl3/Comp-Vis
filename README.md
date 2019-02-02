@@ -3,4 +3,4 @@
 ### Shape Detection
 - Detection of simple shapes (circles, squares, triangles)
 
-### Facial detection *upcoming*
+### Facial detection (*upcoming*)
