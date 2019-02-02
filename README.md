@@ -1,6 +1,6 @@
-# Computer Vision Models
+# Computer Vision Projects
 
 ### Shape Detection
 - Detection of simple shapes (circles, squares, triangles)
 
-### Facial detection (*upcoming*)
+### More to come 
