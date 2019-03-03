@@ -6,4 +6,5 @@
 ### Human Feature Detection
 - Detection of facial features with the use of Haar-like filters (size and type customizable)
 
-### More to come 
+### Panorama using Image Stitching
+- Use of SIFT keypoints detection to stitch images together to form a panorama
